@@ -1,2 +1,2 @@
 # sc2_bot
-Starcraft 2 AI
+The Zabbulator Starcraft 2 AI.
